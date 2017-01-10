@@ -19,3 +19,9 @@ We have our *.codehaus.org wildcard located on this machine - however it is out 
 Please submit pull-requests to amend the configuration in the ruleset.
 
 Keep it simple and ensure your commits are squashed before submitting.
+
+### License
+
+Copyright 2015-2017 SonarSource.
+
+Licensed under the [GNU Lesser General Public License, Version 3.0](http://www.gnu.org/licenses/lgpl.txt)
